@@ -12,6 +12,6 @@ func main() {
 	app.Run()
 
 	if err := app.Stop(context.TODO()); err != nil {
-		log.Println(err)
+		log.Fatal(err)
 	}
 }
