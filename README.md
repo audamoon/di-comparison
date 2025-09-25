@@ -72,6 +72,7 @@ wire: di-comparison/ioc/wire/builders: generate failed
 wire: at least one generate failure
 exit status 1
 wire_gen.go:3: running "go": exit status 1
+```
 
 ### Do 
 
